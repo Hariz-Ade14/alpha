@@ -10,7 +10,7 @@ const ClientLogos: React.FC = () => {
     <section className=" py-6 overflow-hidden">
       <div className="flex flex-col gap-6 px-6">
         <div className="text-center">
-          <p className="text-navy-700 md:text-lg">
+          <p className="text-navy-700 text-[#667085] md:text-lg">
             Join 4,000+ companies already growing
           </p>
         </div>

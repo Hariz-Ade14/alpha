@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
           />
         </a>
 
-        <nav className="hidden md:flex items-center w-[600px] text-[13px] justify-end gap-5 text-white">
+        <nav className="hidden md:flex items-center w-[570px] text-[13px] justify-end gap-5 text-white">
           <a
             href="#models"
             className="navbar-item text-white/90 hover:text-white"
@@ -61,7 +61,7 @@ const Navbar: React.FC = () => {
           </a>
           <a
             href="/get-started"
-            className="text-[13px] text-[#05152C] bg-white rounded-[5px] px-10 py-1.5"
+            className="text-[13px] text-[#05152C] bg-white rounded-[5px] px-4 py-1.5"
           >
             Get Started Now
           </a>
